@@ -13,7 +13,6 @@
 
 - **Adikam Manogna**
 - **Kondeti Praveen**
-> Developed under the guidance of **Dr. Subhra Mazumdar**, IIT Indore.
 
 ---
 
